@@ -7,7 +7,7 @@ This repository contains a PyTorch-based implementation of an image deblurring p
 ## 📁 Project Structure
 
 ```
-├── image_sharpening.py            # Teacher model definition (Restormer)
+├── image_sharpening.py     # Teacher model definition (Restormer)
 ├── motion_deblurring.pth   # Pretrained Restormer weights
 ├── train_dataset_cache.pkl # Cached training data
 ├── test_dataset_cache.pkl  # Cached testing data
