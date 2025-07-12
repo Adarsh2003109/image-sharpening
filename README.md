@@ -83,7 +83,7 @@ class Config:
 ### 4. Train the Model
 
 ```bash
-python image_sharpening.py.py
+python image_sharpening.py
 ```
 
 ### 5. Evaluate Model
