@@ -1,4 +1,4 @@
-# Image Sharpening using knowledge distillation Knowledge Distillation
+# Image Sharpening Using Knowledge Distillation
 
 This repository contains a PyTorch-based implementation of an image deblurring pipeline that uses **Restormer** as a **teacher model** and a lightweight **student model** trained via **knowledge distillation**.
 
